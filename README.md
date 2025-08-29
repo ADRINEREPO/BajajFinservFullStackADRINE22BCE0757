@@ -11,8 +11,8 @@ This project is a REST API built with Flask to handle a POST request at the `/bf
 Screenshot of Postman output is included in the repository and attached below.
 
 ## Postman Correct Output
-![Postman Output](Postman Correct Output1 Adrine 22BCE0757.jpg)
-![Postman Output](Postman Correct Output2 Adrine 22BCE0757.jpg)
+![Postman Output](Postman Correct Output1 Adrine 22BCE0757.JPG)
+![Postman Output](Postman Correct Output2 Adrine 22BCE0757.JPG)
 ---
 
 ### 2. Heroku CLI Installation Issue
