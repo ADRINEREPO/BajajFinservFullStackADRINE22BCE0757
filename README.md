@@ -1,5 +1,5 @@
 # BajajFinservFullStackADRINE22BCE0757
-# BFHL API – Flask Project
+# Build and host a REST API (Method: POST) that takes in an array and returns the output in given format (Done using Python)
 
 This project is a REST API built with Flask to handle a POST request at the `/bfhl` route.
 
@@ -16,16 +16,12 @@ Screenshot of Postman output is included in the repository.
 
 - I tried downloading and installing **Heroku CLI**, but it was not connecting or recognizing commands.
 - Due to this, the deployment to Heroku could not be completed.
-
-Screenshot of Heroku CLI issue is also attached in the repository.
-
 ---
 
 ### Project Files
 
 - `app.py`: Main Flask app
 - `requirements.txt`: Python dependencies
-- `Procfile`: Tells Heroku how to run the app
 - `README.md`: This file
 
 ---
