@@ -3,23 +3,6 @@
 
 This project is a REST API built with Flask to handle a POST request at the `/bfhl` route.
 
-### Features
-
-- Accepts an array of mixed data types via POST request
-- Returns:
-  - Status
-  - User ID in `full_name_ddmmyyyy` format
-  - Email
-  - College Roll Number
-  - Even numbers
-  - Odd numbers
-  - Alphabets in uppercase
-  - Special characters
-  - Sum of numbers (as string)
-  - Reversed concatenation of alphabets in alternating caps
-
----
-
 ### 1. Entire Output Working in Postman
 
 - The API is fully functional and tested using **Postman**.
